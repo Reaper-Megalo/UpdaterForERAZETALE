@@ -1,3 +1,1 @@
-<Version: 1.03>
-/data/Actors.json http://download1493.mediafire.com/cfqqgrjwqg4g/kck30szvuczg7o0/Actors.json
-<End of Version>
+
